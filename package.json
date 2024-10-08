@@ -2,7 +2,7 @@
     "name": "notify-msteams-action",
     "version": "0.0.4",
     "private": true,
-    "description": "GitHub Action to notify an MS Teams channel",
+    "description": "GitHub Action to notify an MS Teams channel cs",
     "main": "lib/main.js",
     "scripts": {
       "build": "tsc",
